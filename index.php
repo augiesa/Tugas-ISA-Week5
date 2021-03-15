@@ -1,37 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@augiesa 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-ahmadmiftahfajrin
-/
-ubaya-cloud
-1
-05
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-ubaya-cloud/index.php /
-@ahmadmiftahfajrin
-ahmadmiftahfajrin commit coba
-Latest commit c8f51fc on Mar 21, 2020
- History
- 1 contributor
-59 lines (51 sloc)  966 Bytes
-  
 <!DOCTYPE html>
 <html>
 
