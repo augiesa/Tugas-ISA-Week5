@@ -1,7 +1,7 @@
 <?php
 
 $dbhost = getenv("MYSQL_SERVICE_HOST");
-$dbusername = 'root';
+$dbusername = '';
 $dbpassword = '';
 $dbname = 'mysql';
 
